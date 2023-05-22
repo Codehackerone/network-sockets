@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <h1>Login</h1>
+    <form method="POST" action="/login">
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.username.label }}<br>
+            {{ form.username() }}<br>
+            {% for error in form.username.errors %}
+                <span style="color: red;">{{ error }}</span><br>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.password.label }}<br>
+            {{ form.password() }}<br>
+            {% for error in form.password.errors %}
+                <span style="color: red;">{{ error }}</span><br>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.submit() }}
+        </p>
+        {% if error %}
+            <p><span style="color: red;">{{ error }}</span></p>
+        {% endif %}
+    </form>
+</body>
+</html>

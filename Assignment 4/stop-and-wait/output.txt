@@ -1,0 +1,30 @@
+Server is running...
+Receiving packet: Sequence: 0; Data: h
+Packet received successfully.
+Receiving packet: Sequence: 1; Data: e
+Packet received successfully.
+Receiving packet: Sequence: 0; Data: l
+Packet received successfully.
+Receiving packet: Sequence: 1; Data: l
+Packet received successfully.
+Receiving packet: Sequence: 0; Data: o
+Packet received successfully.
+Receiving packet: Sequence: 1; Data:  
+Packet lost.
+Packet lost. Resending.
+Receiving packet: Sequence: 1; Data:  
+Packet received successfully.
+Receiving packet: Sequence: 0; Data: w
+Packet received successfully.
+Receiving packet: Sequence: 1; Data: o
+Packet lost.
+Packet lost. Resending.
+Receiving packet: Sequence: 1; Data: o
+Packet received successfully.
+Receiving packet: Sequence: 0; Data: r
+Packet received successfully.
+Receiving packet: Sequence: 1; Data: l
+Packet received successfully.
+Receiving packet: Sequence: 0; Data: d
+Packet received successfully.Server is running...
+Server is running...

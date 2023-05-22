@@ -1,0 +1,87 @@
+Gender,Question 1,Question 2,Question 3,Question 4,Question 5,Question 6,Question 7,Question 8,Question 9,Question 10,Question 11,Question 12,Question 13,Question 14,Question 15,Question 16,Question 17,Question 18,Question 19,Question 20
+Male,Occasionally,Occasionally,Positive,Neutral,Positive,Neutral,Very often,Yes,Positive,Positive,No,Easier,Yes,No,Yes,No,No,Yes,Yes
+Female,Very often,Very often,Positive,Positive,Neutral,Positive,Very often,No,Positive,Positive,Yes,Easier,Yes,No,No,No,Yes,Yes
+Male,Rarely,Rarely,Neutral,Negative,Positive,Neutral,Rarely,Yes,Neutral,Neutral,No,No,Yes,No,Yes,Yes,No,Yes
+Female,Rarely,Rarely,Positive,Positive,Positive,Positive,Rarely,Yes,Positive,Positive,No,No,No,No,No,Yes,No,Yes
+Male,Often,Very often,Negative,Negative,Neutral,Positive,Very often,Yes,Positive,Neutral,No,Easier,Yes,Yes,No,No,Yes,No
+Female,Occasionally,Occasionally,Neutral,Neutral,Neutral,Positive,Occasionally,Yes,Neutral,Neutral,No,No,Yes,No,No,Yes,No,Yes
+Male,Never,Never,Positive,Positive,Positive,Positive,Never,No,Neutral,Neutral,Yes,No,Yes,Yes,No,No,No,Yes
+Male,Occasionally,Occasionally,Positive,Neutral,Neutral,Neutral,Very often,No,Positive,Positive,No,No,No,No,No,Yes,Yes,Yes
+Male,Rarely,Rarely,Negative,Negative,Positive,Negative,Occasionally,No,Negative,Negative,Yes,Easier,No,No,Yes,Yes,No,Yes
+Male,Very often,Very often,Positive,Positive,Positive,Positive,Very often,No,Positive,Positive,No,No,Yes,No,No,Yes,No,Yes
+Male,Occasionally,Occasionally,Positive,Neutral,Neutral,Neutral,Rarely,Yes,Neutral,Neutral,No,No,No,No,No,Yes,No,No
+Female,Rarely,Occasionally,Neutral,Negative,Positive,Positive,Occasionally,No,Neutral,Neutral,Yes,Easier,No,No,Yes,No,No,Yes
+Male,Never,Never,Neutral,Neutral,Neutral,Neutral,Never,Yes,Neutral,Neutral,No,No,No,No,No,Yes,Yes,No
+Female,Rarely,Occasionally,Negative,Negative,Negative,Negative,Occasionally,No,Negative,Negative,Yes,Easier,No,No,Yes,Yes,No,No
+Male,Occasionally,Occasionally,Negative,Negative,Negative,Negative,Occasionally,No,Negative,Negative,No,No,Yes,No,Yes,Yes,Yes,No
+Female,Very often,Very often,Negative,Neutral,Neutral,Neutral,Very often,No,Negative,Neutral,Yes,Easier,Yes,No,Yes,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Neutral,Neutral,Neutral,Neutral,Occasionally,No,Neutral,Neutral,Yes,No,Yes,No,Yes,Yes,No,Yes
+Female,Often,Very often,Positive,Positive,Positive,Positive,Very often,No,Positive,Positive,No,No,Yes,No,No,No,Yes,Yes
+Male,Rarely,Rarely,Negative,Negative,Negative,Negative,Rarely,Yes,Negative,Negative,Yes,Easier,Yes,Yes,No,Yes,Yes,No
+Female,Very often,Very often,Neutral,Negative,Positive,Positive,Very often,No,Neutral,Neutral,No,Easier,Yes,Yes,No,No,Yes,No
+Male,Occasionally,Occasionally,Negative,Negative,Neutral,Neutral,Rarely,Yes,Negative,Negative,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Female,Rarely,Rarely,Positive,Positive,Positive,Positive,Occasionally,No,Positive,Positive,Yes,Easier,Yes,Yes,No,No,No,Yes
+Male,Occasionally,Occasionally,Negative,Neutral,Negative,Negative,Occasionally,Yes,Negative,Negative,Yes,No,No,No,Yes,Yes,No,Yes
+Female,Often,Very often,Positive,Positive,Positive,Positive,Very often,Yes,Positive,Positive,No,Easier,No,No,Yes,No,Yes,Yes
+Male,Rarely,Rarely,Neutral,Negative,Neutral,Negative,Occasionally,No,Neutral,Neutral,Yes,No,Yes,No,Yes,Yes,No,Yes
+Female,Occasionally,Occasionally,Positive,Neutral,Neutral,Neutral,Occasionally,Yes,Positive,Positive,No,No,Yes,No,No,Yes,Yes,Yes
+Male,Very often,Very often,Negative,Negative,Negative,Negative,Rarely,No,Negative,Negative,Yes,Easier,Yes,Yes,Yes,No,No,Yes
+Female,Rarely,Rarely,Neutral,Negative,Negative,Negative,Occasionally,No,Neutral,Neutral,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Male,Often,Very often,Positive,Positive,Positive,Positive,Very often,No,Positive,Positive,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Female,Occasionally,Occasionally,Neutral,Neutral,Neutral,Neutral,Rarely,Yes,Neutral,Neutral,No,No,Yes,Yes,Yes,Yes,Yes,No
+Male,Rarely,Rarely,Positive,Positive,Positive,Positive,Occasionally,No,Positive,Positive,Yes,Easier,Yes,Yes,Yes,Yes,No,Yes
+Female,Very often,Very often,Neutral,Negative,Neutral,Negative,Very often,No,Neutral,Neutral,No,Easier,Yes,Yes,No,No,Yes,No
+Male,Never,Never,Positive,Positive,Positive,Positive,Occasionally,Yes,Positive,Positive,No,No,No,No,No,Yes,No,No
+Female,Rarely,Occasionally,Neutral,Neutral,Neutral,Neutral,Rarely,Yes,Neutral,Neutral,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Positive,Positive,Neutral,Neutral,Occasionally,Yes,Positive,Positive,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Female,Very often,Very often,Positive,Positive,Positive,Positive,Very often,Yes,Positive,Positive,Yes,Easier,No,Yes,Yes,No,Yes,Yes
+Male,Occasionally,Occasionally,Negative,Negative,Negative,Negative,Rarely,No,Negative,Negative,No,No,No,Yes,Yes,Yes,Yes,No
+Male,Rarely,Occasionally,Negative,Negative,Positive,Positive,Rarely,Yes,Negative,Negative,No,Easier,Yes,No,Yes,Yes,No,No
+Male,Never,Never,Neutral,Neutral,Neutral,Neutral,Never,Yes,Neutral,Neutral,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+Male,Rarely,Occasionally,Positive,Positive,Positive,Positive,Rarely,No,Positive,Positive,No,No,Yes,Yes,Yes,Yes,No,Yes
+Male,Occasionally,Occasionally,Negative,Negative,Neutral,Neutral,Occasionally,Yes,Negative,Negative,Yes,No,Yes,No,No,Yes,Yes,Yes
+Male,Very often,Very often,Positive,Positive,Neutral,Positive,Very often,No,Positive,Positive,Yes,Easier,Yes,No,Yes,Yes,Yes,No
+Male,Occasionally,Occasionally,Positive,Positive,Neutral,Neutral,Occasionally,No,Positive,Positive,No,No,Yes,No,Yes,Yes,Yes,Yes
+Male,Rarely,Rarely,Neutral,Neutral,Neutral,Neutral,Rarely,Yes,Neutral,Neutral,Yes,No,Yes,Yes,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Neutral,Neutral,Negative,Positive,Occasionally,Yes,Neutral,Neutral,Yes,Easier,Yes,Yes,Yes,No,Yes,Yes
+Male,Very often,Very often,Positive,Positive,Positive,Positive,Very often,No,Positive,Positive,Yes,Easier,Yes,No,No,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Negative,Negative,Negative,Negative,Occasionally,Yes,Negative,Negative,Yes,Easier,Yes,Yes,Yes,Yes,Yes,Yes
+Male,Rarely,Rarely,Positive,Positive,Positive,Positive,Occasionally,No,Positive,Positive,No,No,No,Yes,Yes,Yes,Yes,No
+Male,Often,Very often,Negative,Negative,Neutral,Neutral,Rarely,No,Negative,Negative,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Neutral,Neutral,Neutral,Neutral,Occasionally,No,Neutral,Neutral,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Male,Never,Never,Positive,Positive,Positive,Positive,Never,Yes,Neutral,Neutral,No,No,Yes,No,No,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Neutral,Neutral,Neutral,Neutral,Occasionally,Yes,Neutral,Neutral,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Male,Rarely,Rarely,Negative,Negative,Negative,Negative,Rarely,Yes,Negative,Negative,Yes,Easier,No,No,Yes,Yes,No,Yes
+Male,Very often,Very often,Positive,Positive,Positive,Positive,Very often,No,Positive,Positive,No,No,No,No,No,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Positive,Neutral,Neutral,Neutral,Rarely,Yes,Neutral,Neutral,No,No,No,Yes,No,Yes,No,Yes
+Male,Rarely,Occasionally,Neutral,Negative,Positive,Positive,Occasionally,No,Neutral,Neutral,No,No,No,No,Yes,Yes,Yes,No
+Male,Never,Never,Neutral,Neutral,Neutral,Neutral,Never,Yes,Neutral,Neutral,Yes,Yes,Yes,Yes,No,No,No,Yes
+Male,Rarely,Rarely,Negative,Negative,Negative,Negative,Occasionally,No,Negative,Negative,Yes,Easier,Yes,No,No,No,No,Yes
+Male,Occasionally,Occasionally,Negative,Negative,Negative,Negative,Occasionally,No,Negative,Negative,Yes,Yes,No,Yes,No,Yes,Yes,No
+Male,Very often,Very often,Negative,Neutral,Neutral,Neutral,Very often,No,Negative,Neutral,Yes,Yes,Yes,Yes,No,No,Yes,No
+Male,Occasionally,Occasionally,Neutral,Neutral,Neutral,Neutral,Occasionally,Yes,Neutral,Neutral,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+Male,Often,Very often,Positive,Positive,Positive,Positive,Very often,No,Positive,Positive,No,No,Yes,No,No,No,Yes,Yes
+Male,Rarely,Rarely,Negative,Negative,Negative,Negative,Rarely,Yes,Negative,Negative,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Male,Very often,Very often,Neutral,Negative,Positive,Positive,Very often,No,Neutral,Neutral,No,Easier,No,No,Yes,No,Yes,Yes
+Male,Never,Never,Positive,Positive,Positive,Positive,Never,Yes,Positive,Positive,No,No,No,Yes,No,Yes,Yes,Yes
+Male,Very often,Very often,Neutral,Negative,Positive,Positive,Very often,No,Neutral,Neutral,No,Easier,Yes,Yes,Yes,Yes,Yes,No
+Male,Rarely,Rarely,Positive,Positive,Positive,Positive,Occasionally,Yes,Positive,Positive,Yes,Easier,No,Yes,No,No,Yes,Yes
+Male,Very often,Very often,Neutral,Negative,Neutral,Neutral,Very often,No,Neutral,Neutral,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Positive,Positive,Positive,Positive,Rarely,No,Positive,Positive,No,No,Yes,Yes,No,Yes,Yes,Yes
+Male,Rarely,Rarely,Negative,Negative,Neutral,Neutral,Occasionally,Yes,Negative,Negative,No,Yes,Yes,No,Yes,Yes,No,No
+Male,Occasionally,Occasionally,Positive,Positive,Neutral,Neutral,Occasionally,No,Positive,Positive,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+Male,Very often,Very often,Positive,Positive,Positive,Positive,Very often,Yes,Positive,Positive,Yes,Easier,Yes,No,Yes,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Negative,Negative,Positive,Positive,Rarely,Yes,Negative,Negative,Yes,No,No,Yes,Yes,Yes,No,Yes
+Male,Rarely,Rarely,Neutral,Neutral,Neutral,Neutral,Rarely,Yes,Neutral,Neutral,Yes,No,Yes,No,No,Yes,Yes,Yes
+Male,Very often,Very often,Positive,Positive,Positive,Positive,Very often,No,Positive,Positive,No,No,Yes,Yes,Yes,Yes,Yes,No
+Male,Occasionally,Occasionally,Neutral,Negative,Positive,Positive,Occasionally,No,Neutral,Neutral,No,Yes,No,No,Yes,No,Yes,Yes
+Male,Rarely,Rarely,Positive,Positive,Positive,Positive,Occasionally,Yes,Positive,Positive,Yes,Yes,Yes,No,Yes,Yes,No,No
+Male,Very often,Very often,Neutral,Negative,Neutral,Neutral,Very often,Yes,Neutral,Neutral,No,No,No,No,No,Yes,Yes,Yes
+Male,Never,Never,Positive,Positive,Positive,Positive,Never,No,Positive,Positive,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Male,Rarely,Occasionally,Neutral,Negative,Positive,Positive,Occasionally,Yes,Neutral,Neutral,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Male,Occasionally,Occasionally,Positive,Positive,Neutral,Neutral,Occasionally,Yes,Positive,Positive,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Male,Very often,Very often,Positive,Positive,Neutral,Positive,Very often,No,Positive,Positive,Yes,Easier,Yes,No,Yes,No,Yes,Yes
+Male,Occasionally,Occasionally,Negative,Negative,Negative,Negative,Occasionally,Yes,Negative,Negative,No,Yes,No,Yes,No,Yes,Yes,Yes
+Male,Rarely,Occasionally,Negative,Negative,Positive,Positive,Rarely,No,Negative,Negative,Yes,Easier,Yes,No,No,Yes,Yes,Yes
+Male,Never,Never,Neutral,Neutral,Neutral,Neutral,Never,Yes,Neutral,Neutral,No,No,No,No,Yes,Yes,Yes,Yes
+Male,Rarely,Occasionally,Positive,Positive,Positive,Positive,Rarely,No,Positive,Positive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
